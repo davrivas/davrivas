@@ -1,4 +1,4 @@
-Hi, I'm David Rivas from Colombia 🇨🇴. I am a software developer with more than 5 years of experience
+Hi, I'm David Rivas from Colombia 🇨🇴. I am a software developer since 2018.
 
 - 🔭 I’m currently working on .NET
 - 🌱 I’m currently learning C#, Azure and software architecture
